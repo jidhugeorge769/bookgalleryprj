@@ -1,12 +1,14 @@
 div{
 
-    width: 30%;
+    width: 25%;
     height: 450px;
     background-color: rgba(150, 147, 147, 0.948);
     border: solid white 10px;
     color: brown;
     float: left;
     padding: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
 
 }
 img{
@@ -18,7 +20,8 @@ img{
 }
 div h1{
     text-align: center;
-    color: brown;
+    color: rgb(33, 233, 15);
+    font-size: x-large;
 }
 p{
     font-size: medium;
@@ -32,12 +35,11 @@ h3{
 h1{
     text-align: center;
 
-    color: brown;
+    color: rgb(12, 250, 226);
     font-size: xxlarge;
 }
 body{
-
-    background-image: url("./book/imagBOOKes.jpg");
+    background-image: url("./book/desktop-wallpaper-the-librarians-the-librarians-old-library.jpg");
     background-size: cover;
 }
 div:hover{
